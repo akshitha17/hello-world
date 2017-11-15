@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi buddies!!
+I love travelling ..because its never boring!okay brahh
